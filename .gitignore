@@ -1,0 +1,18 @@
+# Gradle / Kotlin
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# Byggðar skrár og gögn af síma (mælingar af vinnustað eiga ekki heima í kóðasafninu)
+*.apk
+*.aab
+ble3d_*.csv
+ble3d_*_session.txt
+ble3d_*_log.txt
